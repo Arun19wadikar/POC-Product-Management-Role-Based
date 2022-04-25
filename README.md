@@ -13,10 +13,10 @@ Create APIs for following operations in NodeJS.
 o  User data
 o  Product data
 
-Steps:
+Steps to run the application:
 
-> npm install
+>  npm install
 
-> npm start
+>  npm start
 
-> access the api by using rest client - in postman.rest
+>  Access the api by using rest client - in postman.rest
