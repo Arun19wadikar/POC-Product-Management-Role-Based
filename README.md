@@ -7,9 +7,11 @@ Create APIs for following operations in NodeJS. You can use any framework in Nod
 4. The website will display products added by users.
 5. Admin can do delete/update operations on Users.
 6. Admin can decide whether products can be displayed on a web page or not and also can do delete/update operations on products.
+
 · Databases: (created static file in table.js)
-o    User data 
-o    Product data
+
+1.    User data 
+2.    Product data
 
 Steps to run the project:
 
