@@ -7,8 +7,8 @@ Create APIs for following operations in NodeJS. You can use any framework in Nod
 4. The website will display products added by users.
 5. Admin can do delete/update operations on Users.
 6. Admin can decide whether products can be displayed on a web page or not and also can do delete/update operations on products.
-· Databases: 
-o    User data
+· Databases: (created static file in table.js)
+o    User data 
 o    Product data
 
 Steps to run the project:
@@ -18,3 +18,7 @@ Steps to run the project:
 > npm start
 
 > Added Rest API client to handle the requests - via postman.rest file which i have added in project you can test all API'S through this.
+
+
+
+NOTE: Let us know if you are unable to run it over locally.(Also i have accesssed the static table from table.js - Users & Products)
